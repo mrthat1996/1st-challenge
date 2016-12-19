@@ -196,4 +196,7 @@ textarea{
     #menu ul li.n-avatar {
         display: none;
     }
+    .c-photo img {
+        width: 140px;
+    }
 }
